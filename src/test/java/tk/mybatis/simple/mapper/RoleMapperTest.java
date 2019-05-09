@@ -8,6 +8,7 @@ import org.junit.Test;
 
 import tk.mybatis.simple.model.SysPrivilege;
 import tk.mybatis.simple.model.SysRole;
+import tk.mybatis.simple.model.SysUser;
 import tk.mybatis.simple.type.Enabled;
 
 public class RoleMapperTest extends BaseMapperTest {
